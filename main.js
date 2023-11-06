@@ -1,3 +1,4 @@
+"Komment Demo Task"
 const APP_ID = "YOUR APP ID"
 const TOKEN = "YOUR TEMP TOKEN"
 const CHANNEL = "YOUR CHANNEL NAME"
